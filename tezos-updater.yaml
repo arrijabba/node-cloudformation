@@ -575,7 +575,7 @@ Resources:
             - Name: "region"
               Value: !Ref AWS::Region
             - Name: "chainbucket"
-              Value: !Ref ChainBucket
+              Value: "gc-updater-prod-chainbucket-jxh7a0o8qerx"
             - Name: "network"
               Value: !Ref Network
             - Name: "connections"
