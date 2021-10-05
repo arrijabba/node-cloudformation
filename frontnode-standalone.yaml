@@ -180,7 +180,7 @@
         mainnet: mainnet-updater-chainbucket-1eq4z7ed2l45s
       us-west-2:
         mainnet: mainnet-updater-chainbucket-1eq4z7ed2l45s
-      us-east-2:
+      us-east-1:
         mainnet: mainnet-updater-chainbucket-1eq4z7ed2l45s
   
   Resources:
